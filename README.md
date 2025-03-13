@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nt522
+- 👋 Hi, I’m Nawal
 - 👀 I’m interested in web development and data science 
 - 🌱 I’m currently learning java and softwares frameworks that helps decision support system in business field
 - 💞️ I’m looking to collaborate on any project that has to do with java web development 
